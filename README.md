@@ -33,12 +33,15 @@ Horizon Charts for multi-year risk forecasting.
 
 # 1. Strategic Growth & Pipeline Analytics Power BI Desktop
 Goal: Identifying conversion trends and regional opportunities to bridge the target gap
+
 <img width="1352" height="753" alt="01" src="https://github.com/user-attachments/assets/3bffa540-a21c-419e-986c-3f719df7fb7c" />
 
 # 2. Tactical Pipeline Deep-Dive
 Goal: Monitoring regional rep distribution, funnel attrition, and effort-to-deal correlation
+
 <img width="1351" height="753" alt="02" src="https://github.com/user-attachments/assets/b4ddd5e4-c970-46f9-9d88-aebcd06b6325" />
 
 # 3. Pipeline Forecast & Risk Analysis
 Goal: Weighted Pipeline Performance, Target Gap, and At-Risk Deal Insights (2022–2026)
+
 <img width="1563" height="902" alt="03" src="https://github.com/user-attachments/assets/f9e32605-3f24-4ed7-9e32-04cab5f33af5" />
